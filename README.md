@@ -1,4 +1,4 @@
-<img width="1915" height="957" alt="image" src="https://github.com/user-attachments/assets/c44d409a-ede8-4aae-8a94-ccdb1ed90fcc" /># SAP RAP Employee Management System
+# SAP RAP Employee Management System
 
 ## Overview
 
