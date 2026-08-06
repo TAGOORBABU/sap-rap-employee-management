@@ -86,17 +86,16 @@ SAP Fiori Elements Application
 
 ## Screenshots
 
-### Employee List
-
-(Add screenshot)
-
-### Service Binding
-
-(Add screenshot)
 
 ### Eclipse Project
 
-(Add screenshot)
+<img width="503" height="788" alt="image" src="https://github.com/user-attachments/assets/73d661fe-1cf3-4d2f-b4d8-366ca80d51a7" />
+
+
+### Service Binding
+
+<img width="1916" height="878" alt="image" src="https://github.com/user-attachments/assets/9f02359a-1e97-4e61-a5ed-71f0d06ba69c" />
+
 
 ---
 
