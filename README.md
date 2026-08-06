@@ -89,47 +89,44 @@ SAP Fiori Elements Application
 
 ### Eclipse Project
 
-<img width="503" height="788" alt="image" src="https://github.com/user-attachments/assets/73d661fe-1cf3-4d2f-b4d8-366ca80d51a7" />
+<img width="507" height="675" alt="image" src="https://github.com/user-attachments/assets/dd343fca-6dbf-4717-9ec0-7b93c430cb91" />
+
 
 
 ### Database Table
 
-<img width="1915" height="957" alt="image" src="https://github.com/user-attachments/assets/ddb981bd-9f7b-4369-a0bb-843e7486242a" />
-<img width="1917" height="945" alt="image" src="https://github.com/user-attachments/assets/76e3cefa-e267-4b7a-87f4-3f58daee9d05" />
+<img width="1400" height="692" alt="image" src="https://github.com/user-attachments/assets/0a0db7f4-95fb-46e3-bbab-9e65b1709f74" />
 
 
 ### Root CDS View
 
-<img width="1917" height="957" alt="image" src="https://github.com/user-attachments/assets/d9c5a844-3f10-461d-a5ac-e911046193f2" />
-<img width="1917" height="942" alt="image" src="https://github.com/user-attachments/assets/44ff2596-51d9-4dcc-aa02-dcded3f348fb" />
+<img width="1382" height="707" alt="image" src="https://github.com/user-attachments/assets/81bc5952-aca8-4ac8-a255-609a1feaa3b5" />
 
 
 ### Projection CDS View
 
-<img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/1ec05d45-1b51-49be-803d-f2bd60ba1adb" />
-<img width="1917" height="922" alt="image" src="https://github.com/user-attachments/assets/52e2c513-3467-434a-9851-b072118ecfc6" />
-
+<img width="1402" height="721" alt="image" src="https://github.com/user-attachments/assets/db575c4f-e7ea-4236-8629-31ed6c4347e0" />
 
 
 ### Behavior Definition
 
-<img width="1917" height="912" alt="image" src="https://github.com/user-attachments/assets/b2a928df-82f1-47ee-8732-10b844fc6d11" />
-<img width="1917" height="868" alt="image" src="https://github.com/user-attachments/assets/1f37d7bb-f95d-4261-bdcd-9986b415cd5d" />
+<img width="1391" height="700" alt="image" src="https://github.com/user-attachments/assets/1f6352d7-372c-49fc-bbb1-d352b581ec93" />
+<img width="1397" height="723" alt="image" src="https://github.com/user-attachments/assets/43edc275-297c-4610-af4e-4c3c478a5130" />
 
 
 ### Service Definition
 
-<img width="1917" height="920" alt="image" src="https://github.com/user-attachments/assets/6ccb1926-7bec-4009-a733-709d851fdffd" />
+<img width="1397" height="703" alt="image" src="https://github.com/user-attachments/assets/a32c71cf-c58d-47c0-bae3-796e6df490b7" />
 
 
 ### Service Binding
 
-<img width="1916" height="878" alt="image" src="https://github.com/user-attachments/assets/9f02359a-1e97-4e61-a5ed-71f0d06ba69c" />
+<img width="1398" height="720" alt="image" src="https://github.com/user-attachments/assets/1aa9baff-1bf5-4e84-a7b9-4605e194b062" />
 
 
 ### SAP Fiori Application
 
-<img width="1917" height="876" alt="image" src="https://github.com/user-attachments/assets/f952d8d2-9526-4156-b37f-a0d483c7b51c" />
+<img width="1917" height="875" alt="image" src="https://github.com/user-attachments/assets/9008b6d3-8352-448a-a256-a87c434d5038" />
 
 
 ---
