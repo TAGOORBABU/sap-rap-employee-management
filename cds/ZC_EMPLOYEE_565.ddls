@@ -1,0 +1,30 @@
+@AccessControl.authorizationCheck: #NOT_REQUIRED
+@EndUserText.label: 'Employee Projection View'
+@Metadata.ignorePropagatedAnnotations: true
+define root view entity ZC_EMPLOYEE_DETAILS
+  provider contract transactional_query 
+    as projection on ZI_EMPLOYEE_DETAILS
+{
+      @UI.lineItem: [{ position: 10 }]
+  @UI.identification: [{ position: 10 }]
+  key Empid,
+
+  @UI.lineItem: [{ position: 20 }]
+  @UI.identification: [{ position: 20 }]
+  Name,
+
+  @UI.lineItem: [{ position: 30 }]
+  Email,
+
+  @UI.lineItem: [{ position: 40 }]
+  Dept,
+
+  @UI.lineItem: [{ position: 50 }]
+  Salary,
+
+  @UI.lineItem: [{ position: 60 }]
+  Joindate,
+
+  @UI.lineItem: [{ position: 70 }]
+  Status
+}
