@@ -1,0 +1,20 @@
+managed implementation in class zbp_i_employee_details unique;
+//strict ( 2 );
+
+define behavior for ZI_EMPLOYEE_DETAILS
+persistent table zemply_mng_dbtab
+lock master
+authorization master ( instance )
+{
+  create;
+  update;
+  delete;
+
+  field ( readonly ) Empid;
+
+  validation validateSalary on save
+  {
+    create;
+    update;
+  }
+}
