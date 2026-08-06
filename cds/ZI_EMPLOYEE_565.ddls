@@ -1,0 +1,14 @@
+@AbapCatalog.viewEnhancementCategory: [#NONE]
+@AccessControl.authorizationCheck: #NOT_REQUIRED
+@EndUserText.label: 'Employee Root View'
+@Metadata.ignorePropagatedAnnotations: true
+define root view entity ZI_EMPLOYEE_DETAILS as select from zemply_mng_dbtab
+{
+    key empid as Empid,
+    name as Name,
+    email as Email,
+    dept as Dept,
+    salary as Salary,
+    joindate as Joindate,
+    status as Status
+}
