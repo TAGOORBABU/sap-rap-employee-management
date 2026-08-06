@@ -1,0 +1,17 @@
+@EndUserText.label : 'employee Database Table'
+@AbapCatalog.enhancement.category : #NOT_EXTENSIBLE
+@AbapCatalog.tableCategory : #TRANSPARENT
+@AbapCatalog.deliveryClass : #A
+@AbapCatalog.dataMaintenance : #RESTRICTED
+define table zemply_mng_dbtab {
+
+  key client : abap.clnt not null;
+  key empid  : zdte_empid not null;
+  name       : zdte_empname;
+  email      : zdte_email;
+  dept       : zdte_dept;
+  salary     : zdte_salary;
+  joindate   : zdte_joindata;
+  status     : zdte_status;
+
+}
